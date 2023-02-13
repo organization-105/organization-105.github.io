@@ -1,0 +1,12 @@
+h1, h2 {
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+}
+.sidenav {
+  width:16%;
+  margin-left:0px;
+  margin-right:84%;
+  height:100%;
+  background-color: #111;
+}
